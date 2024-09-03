@@ -1,5 +1,5 @@
-
 ![9b2c8ef2b9fd5106d5245.jpg](https://img.yohaman.pp.ua/file/9b2c8ef2b9fd5106d5245.jpg)
+[转载：一瓶奶油1Panel搭建Wordpress](https://naiyous.com/5690.html)
 
 准备工作
 
