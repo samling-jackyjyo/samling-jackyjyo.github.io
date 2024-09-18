@@ -1,4 +1,3 @@
-
 ## 一、了解 rclone
 
 [rclone](https://www.amjun.com/tag/r/ "查看rclone的所有文章") 是一个命令行工具，可以用来管理各种云存储服务。
@@ -26,7 +25,8 @@ rclone authorize onedrive
 ```
 
 运行完后可能弹出浏览器让你登录，登录完成后就可以在命令行查看到 token。
-![image.png](https://easyimage.01011205.xyz/i/0/2024/09/12/xt841l-0.png)
+![image](https://github.com/user-attachments/assets/00630f05-d90c-4ea2-b23d-0c64737a3059)
+
 
 ### 2. 配置 onedrive
 ```
@@ -36,22 +36,24 @@ rclone/rclone config
 ```
 
 这里是输入 [onedrive](https://www.amjun.com/tag/o/ "查看onedrive的所有文章") 相关配置，按下图操作即可：
-![image.png](https://easyimage.01011205.xyz/i/0/2024/09/12/xtnxjz-0.png)
+![image](https://github.com/user-attachments/assets/a8d15305-5f77-4910-8518-7bae1c07dc38)
+
 
 接下来是选[网盘](https://www.amjun.com/tag/wp/ "查看网盘的所有文章")的类型，找到网盘 Microsoft OneDrive 的编号即可，我这里是 31，编号可能有变动。
 
-![image.png](https://easyimage.01011205.xyz/i/0/2024/09/12/xtr9wi-0.png)
+![image](https://github.com/user-attachments/assets/3935b88a-1051-4bdd-85a9-bc8e859a2ffe)
+
 
 输入 token 时，一定要复制全，大括号里面的全部需要复制。
 
-![image.png](https://easyimage.01011205.xyz/i/0/2024/09/12/xtvrcd-0.png)
+![image](https://github.com/user-attachments/assets/f855b3a4-3d42-4a18-9cb8-169eb43a06fd)
 
 
 接下来继续按下图操作，就可以了。
 
-![image.png](https://easyimage.01011205.xyz/i/0/2024/09/12/xu6b8g-0.png)
+![image](https://github.com/user-attachments/assets/e033f2c6-cae8-4444-9c1e-65a6aa55ab4b)
+![image](https://github.com/user-attachments/assets/f3426769-db30-41bc-943e-e5fdfc0dd87c)
 
-![image.png](https://easyimage.01011205.xyz/i/0/2024/09/12/xu8c65-0.png)
 
 
 到这里配置就完成了。
