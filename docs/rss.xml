@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>土拨鼠的博客</title><link>https://samling-jackyjyo.github.io</link><description>这里是土拨鼠的博客，用来收集和分享有趣的事情</description><copyright>土拨鼠的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://easyimage.01011205.xyz/i/2024/09/08/nlnmn5.png</url><title>avatar</title><link>https://samling-jackyjyo.github.io</link></image><lastBuildDate>Sun, 29 Sep 2024 05:45:23 +0000</lastBuildDate><managingEditor>土拨鼠的博客</managingEditor><ttl>60</ttl><webMaster>土拨鼠的博客</webMaster><item><title>Debian 我的常用一键脚本</title><link>https://samling-jackyjyo.github.io/post/Debian%20-wo-de-chang-yong-yi-jian-jiao-ben.html</link><description>萌咖大佬一键DD脚本&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>土拨鼠的博客</title><link>https://samling-jackyjyo.github.io</link><description>这里是土拨鼠的博客，用来收集和分享有趣的事情</description><copyright>土拨鼠的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://easyimage.01011205.xyz/i/2024/09/08/nlnmn5.png</url><title>avatar</title><link>https://samling-jackyjyo.github.io</link></image><lastBuildDate>Mon, 30 Sep 2024 00:40:59 +0000</lastBuildDate><managingEditor>土拨鼠的博客</managingEditor><ttl>60</ttl><webMaster>土拨鼠的博客</webMaster><item><title>在Serv00上搭建FreshRSS</title><link>https://samling-jackyjyo.github.io/post/zai-Serv00-shang-da-jian-FreshRSS.html</link><description>这个非常简单啊，几步就完成了&#13;
+&#13;
+# [](https://linux.do/t/topic/220086#p-1965202-h-1serv00-1)1. 将域名托管到 serv00&#13;
+&#13;
+![image.png](https://easyimage.01011205.xyz/i/0/2024/09/30/dqdiyu-0.webp)&#13;
+&#13;
+&#13;
+可以通过回源方式解决 IP 被墙问题  &#13;
+参考：&#13;
+&#13;
+![](https://linux.do/user_avatar/linux.do/xjfkkk/48/12365_2.png) [给 serv00 添加优质域名并加速网站](https://linux.do/t/topic/174317) [资源荟萃](https://linux.do/c/resource/14)&#13;
+&#13;
+&gt; serv00 不加速网站的情况下延迟比较高，而且自带的域名也很不美观。</description><guid isPermaLink="true">https://samling-jackyjyo.github.io/post/zai-Serv00-shang-da-jian-FreshRSS.html</guid><pubDate>Mon, 30 Sep 2024 00:40:29 +0000</pubDate></item><item><title>Debian 我的常用一键脚本</title><link>https://samling-jackyjyo.github.io/post/Debian%20-wo-de-chang-yong-yi-jian-jiao-ben.html</link><description>萌咖大佬一键DD脚本&#13;
 更新&#13;
 ```&#13;
 apt-get update&#13;
